@@ -57,12 +57,12 @@ Login with a valid username and password. Use the menu to:
 ```
 ```
 📊 Sample Report Output
----
-Student Report
-Total Students: 4
-Grade A: 2 student(s)
-Grade B: 1 student(s)
-Grade C: 1 student(s)
+- **Student Report**
+- Total Students: 4
+- Grade A: 2 student(s)
+- Grade B: 1 student(s)
+- Grade C: 1 student(s)
+
 ```
 
 ```
