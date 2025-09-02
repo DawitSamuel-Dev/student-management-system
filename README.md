@@ -45,7 +45,6 @@ cd student-management-system
 python main.py
 3. If running for the first time, create an Admin account when prompted.
 
----
 
 
 🖱️ Usage
@@ -59,7 +58,7 @@ Use the menu to:
 📊 Generate a student report
 Logout when done (session activity will be logged)
 
----
+```
 
 📊 Sample Report Output
 Student Report
@@ -68,10 +67,12 @@ Grade A: 2 student(s)
 Grade B: 1 student(s)
 Grade C: 1 student(s)
 
----
+
 
 🙏 Acknowledgements
 
 This project was created as part of the RITA Africa Python Fundamentals Bootcamp.
 Special thanks to Nyenpandi Josephine (Instructor & Bootcamp Facilitator), 
 the RITA Africa team, and fellow bootcamp participants for their guidance, support, and inspiration throughout this capstone project.
+
+```
