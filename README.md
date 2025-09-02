@@ -33,9 +33,11 @@ student_management_system/
 │── activity_log.txt # Logs user activity
 │── README.md # Project documentation
 
----
+
 
 ## 🏁 How to Run
+```bash
+# Clone this repository
 1. Clone this repository:
 git clone https://github.com/DawitSamuel-Dev/student-management-system/edit/main/README.md
 cd student-management-system
