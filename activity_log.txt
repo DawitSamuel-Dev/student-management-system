@@ -1,0 +1,36 @@
+2025-09-01 09:33:36.158820 - admin - Logged in
+2025-09-01 09:33:57.472655 - admin - Added student 8
+2025-09-01 09:36:06.500230 - admin - Added student 8
+2025-09-01 09:38:06.561794 - admin - Added student 10
+2025-09-01 09:40:36.650197 - admin - Updated student 8
+2025-09-01 09:40:53.937993 - admin - Updated student 8
+2025-09-01 09:41:21.202035 - admin - Deleted student 8
+2025-09-01 09:41:21.202586 - admin - Deleted student 8
+2025-09-01 09:42:05.586543 - admin - Added student 12
+2025-09-01 09:44:11.910878 - admin - Added student 12
+2025-09-01 09:44:22.230666 - admin - Logged out
+2025-09-01 12:09:50.782742 - admin - Logged in
+2025-09-01 12:10:18.860576 - admin - Added student 100
+2025-09-01 12:10:43.962929 - admin - Added student 101
+2025-09-01 12:11:07.280247 - admin - Added student 102
+2025-09-01 12:11:59.057154 - admin - Added student 103
+2025-09-01 12:13:36.776434 - admin - Updated student 102
+2025-09-01 12:14:04.419826 - admin - Deleted student 101
+2025-09-01 12:15:27.914363 - admin - Logged out
+2025-09-02 08:48:33.933730 - admin - Logged in
+2025-09-02 08:49:38.421767 - admin - Added student 101
+2025-09-02 08:50:44.695532 - admin - Added student 102
+2025-09-02 08:51:25.187098 - admin - Added student 103
+2025-09-02 08:53:40.841618 - admin - Updated student 102
+2025-09-02 08:53:59.352793 - admin - Updated student 102
+2025-09-02 08:54:33.814093 - admin - Deleted student 101
+2025-09-02 08:57:02.889449 - admin - Logged out
+2025-09-02 09:07:51.621779 - admin - Logged in
+2025-09-02 09:09:01.646580 - admin - Added student 101
+2025-09-02 09:09:32.929722 - admin - Added student 102
+2025-09-02 09:09:54.316115 - admin - Added student 103
+2025-09-02 09:12:15.458829 - admin - Updated student 101
+2025-09-02 09:12:52.327505 - admin - Deleted student 102
+2025-09-02 09:12:52.328083 - admin - Deleted student 102
+2025-09-02 09:12:52.328527 - admin - Deleted student 102
+2025-09-02 09:15:13.741865 - admin - Logged out
