@@ -24,6 +24,7 @@ This application allows **secure login**, **student record management (CRUD)**, 
 ---
 
 ## 📂 Project Structure
+---
 student_management_system/
 │── main.py # Main program (menu-driven interface)
 │── student_management_system.ipynb # Jupyter Notebook version
@@ -42,11 +43,9 @@ cd student-management-system
 2. Run the program:
 python main.py
 3. If running for the first time, create an Admin account when prompted.
-
+---
 🖱️ Usage
-
 Login with a valid username and password
-
 Use the menu to:
 ➕ Add a new student
 📄 View all students
@@ -55,14 +54,14 @@ Use the menu to:
 ❌ Delete student records
 📊 Generate a student report
 Logout when done (session activity will be logged)
-
+---
 📊 Sample Report Output
 Student Report
 Total Students: 4
 Grade A: 2 student(s)
 Grade B: 1 student(s)
 Grade C: 1 student(s)
-
+---
 🙏 Acknowledgements
 
 This project was created as part of the RITA Africa Python Fundamentals Bootcamp.
