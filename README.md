@@ -44,6 +44,7 @@ python main.py
 3. If running for the first time, create an Admin account when prompted.
 ```
 🖱️ Usage
+---
 Login with a valid username and password. Use the menu to:
 - ➕ Add a new student
 - 📄 View all students
@@ -54,6 +55,7 @@ Login with a valid username and password. Use the menu to:
 - Logout when done (session activity will be logged)
 ```
 📊 Sample Report Output
+---
 Student Report
 Total Students: 4
 Grade A: 2 student(s)
