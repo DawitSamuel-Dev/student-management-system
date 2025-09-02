@@ -69,6 +69,6 @@ Login with a valid username and password. Use the menu to:
 🙏 Acknowledgements
 ---
 This project was created as part of the RITA Africa Python Fundamentals Bootcamp.
-Special thanks to Nyenpandi Josephine (Instructor & Bootcamp Facilitator), 
+Special thanks to Nyepandi Josephine (Instructor & Bootcamp Facilitator), 
 the RITA Africa team, and fellow bootcamp participants for their guidance, support, and inspiration throughout this capstone project.
 ```
