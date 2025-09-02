@@ -24,7 +24,7 @@ This application allows **secure login**, **student record management (CRUD)**, 
 ---
 
 ## 📂 Project Structure
----
+```
 student_management_system/
 │── main.py # Main program (menu-driven interface)
 │── student_management_system.ipynb # Jupyter Notebook version
@@ -33,7 +33,7 @@ student_management_system/
 │── activity_log.txt # Logs user activity
 │── README.md # Project documentation
 
-
+```
 
 ## 🏁 How to Run
 ```bash
