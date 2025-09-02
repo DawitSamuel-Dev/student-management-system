@@ -33,7 +33,6 @@ student_management_system/
 │── activity_log.txt # Logs user activity
 │── README.md # Project documentation
 ```
-
 ## 🏁 How to Run
 ```bash
 # Clone this repository
@@ -43,11 +42,7 @@ cd student-management-system
 2. Run the program:
 python main.py
 3. If running for the first time, create an Admin account when prompted.
-
-
-
 ```
-
 🖱️ Usage
 Login with a valid username and password. Use the menu to:
 - ➕ Add a new student
@@ -57,8 +52,6 @@ Login with a valid username and password. Use the menu to:
 - ❌ Delete student records
 - 📊 Generate a student report
 - Logout when done (session activity will be logged)
-
-
 ```
 📊 Sample Report Output
 Student Report
