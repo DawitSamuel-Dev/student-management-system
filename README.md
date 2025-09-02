@@ -46,7 +46,9 @@ python main.py
 3. If running for the first time, create an Admin account when prompted.
 
 
+
 ```
+
 🖱️ Usage
 Login with a valid username and password
 Use the menu to:
