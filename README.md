@@ -53,9 +53,9 @@ Login with a valid username and password. Use the menu to:
 - ❌ Delete student records
 - 📊 Generate a student report
 - Logout when done (session activity will be logged)
-
-📊 Sample Report Output
 ```
+📊 Sample Report Output
+---
 Student Report
 Total Students: 4
 Grade A: 2 student(s)
@@ -63,7 +63,7 @@ Grade B: 1 student(s)
 Grade C: 1 student(s)
 ```
 🙏 Acknowledgements
-```
+---
 This project was created as part of the RITA Africa Python Fundamentals Bootcamp.
 Special thanks to Nyenpandi Josephine (Instructor & Bootcamp Facilitator), 
 the RITA Africa team, and fellow bootcamp participants for their guidance, support, and inspiration throughout this capstone project.
