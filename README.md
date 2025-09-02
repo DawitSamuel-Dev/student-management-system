@@ -39,11 +39,13 @@ student_management_system/
 1. Clone this repository:
 git clone https://github.com/DawitSamuel-Dev/student-management-system/edit/main/README.md
 cd student-management-system
-
 2. Run the program:
 python main.py
 3. If running for the first time, create an Admin account when prompted.
+
 ---
+
+
 🖱️ Usage
 Login with a valid username and password
 Use the menu to:
@@ -54,14 +56,18 @@ Use the menu to:
 ❌ Delete student records
 📊 Generate a student report
 Logout when done (session activity will be logged)
+
 ---
+
 📊 Sample Report Output
 Student Report
 Total Students: 4
 Grade A: 2 student(s)
 Grade B: 1 student(s)
 Grade C: 1 student(s)
+
 ---
+
 🙏 Acknowledgements
 
 This project was created as part of the RITA Africa Python Fundamentals Bootcamp.
