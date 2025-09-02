@@ -46,7 +46,7 @@ python main.py
 3. If running for the first time, create an Admin account when prompted.
 
 
-
+```
 🖱️ Usage
 Login with a valid username and password
 Use the menu to:
@@ -68,7 +68,7 @@ Grade B: 1 student(s)
 Grade C: 1 student(s)
 
 
-
+```
 🙏 Acknowledgements
 
 This project was created as part of the RITA Africa Python Fundamentals Bootcamp.
