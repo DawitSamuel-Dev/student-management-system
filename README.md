@@ -32,7 +32,6 @@ student_management_system/
 │── students.txt # Stores student records
 │── activity_log.txt # Logs user activity
 │── README.md # Project documentation
-
 ```
 
 ## 🏁 How to Run
@@ -50,31 +49,27 @@ python main.py
 ```
 
 🖱️ Usage
-Login with a valid username and password
-Use the menu to:
-➕ Add a new student
-📄 View all students
-🔍 Search for a student by roll number
-✏️ Update student details
-❌ Delete student records
-📊 Generate a student report
-Logout when done (session activity will be logged)
+Login with a valid username and password. Use the menu to:
+- ➕ Add a new student
+- 📄 View all students
+- 🔍 Search for a student by roll number
+- ✏️ Update student details
+- ❌ Delete student records
+- 📊 Generate a student report
+- Logout when done (session activity will be logged)
+
 
 ```
-
 📊 Sample Report Output
 Student Report
 Total Students: 4
 Grade A: 2 student(s)
 Grade B: 1 student(s)
 Grade C: 1 student(s)
-
-
 ```
 🙏 Acknowledgements
 
 This project was created as part of the RITA Africa Python Fundamentals Bootcamp.
 Special thanks to Nyenpandi Josephine (Instructor & Bootcamp Facilitator), 
 the RITA Africa team, and fellow bootcamp participants for their guidance, support, and inspiration throughout this capstone project.
-
 ```
